@@ -8,6 +8,9 @@ import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DocumentFilter;
 
+//(1) need to fix parentheses
+//(2) it would be helpful to put in some form of linedelete or something or just repair by hand 
+
 
 public class AdobePDFMakerGUI extends JFrame {
 
